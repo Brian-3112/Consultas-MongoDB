@@ -1,8 +1,9 @@
-# MongoDB
-Consultas MongoDB
+# CONSULTAS  MongoDB
+
 // use('sample_restaurants')
 
 //1.    Mostrar todos los documentos en los restaurantes de colección.
+
 // db.restaurants.find({})
 
 //2.   Muestre los campos del id del restaurante, nombre, distrito y cocina para todos los documentos de la colección.
